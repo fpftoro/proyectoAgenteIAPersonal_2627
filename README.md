@@ -120,9 +120,11 @@ Estudiar la función de MCP y conectar, si la plataforma lo permite, una herrami
 
 Ejemplos de tareas: consultar próximos eventos, localizar un correo ficticio por asunto, relacionar un correo con una cita y **proponer** un nuevo evento antes de solicitar confirmación. Las operaciones de escritura requieren confirmación explícita y controles efectivos de autorización.
 
-**Ampliaciones voluntarias:** RSS, meteorología con API gratuita, archivos ficticios, SQLite, repositorios de prueba, gestores de tareas o simuladores domésticos. Se admitirán otras conexiones justificadas siempre que sean gratuitas, seguras, aisladas y autorizadas.
+**Ampliaciones voluntarias:** RSS, meteorología con API gratuita, archivos ficticios, SQLite, repositorios de prueba, gestores de tareas o simuladores domésticos. Se admitirán otras conexiones justificadas siempre que sean gratuitas, seguras, aisladas y autorizadas. Se **considerará la originalidad o innovación** de la ampliación voluntaria.
 
 **Entregable:** demostración de Telegram y de las integraciones con Gmail y Calendar, indicando si se utiliza MCP o un conector nativo. Si alguna integración resulta técnicamente imposible bajo las restricciones del centro, se documentará el bloqueo y se acordará con el profesor una alternativa gratuita de alcance equivalente.
+
+
 
 ### Fase 6. Seguridad, privacidad y revisión final
 
@@ -244,6 +246,7 @@ Cada grupo presentará, en la medida en que las herramientas elegidas lo permita
 6. Una petición combinada: «Busca el correo sobre la reunión del proyecto, comprueba cuándo es y si tengo algún compromiso a esa hora».
 7. Una operación propuesta que requiera confirmación, sin ejecutarse automáticamente.
 8. Una explicación de las medidas de seguridad y de los límites del sistema.
+9. La innovación que hayan implementado.
 
 Dado que en equipos sin GPU algunas peticiones pueden tardar varios minutos, el grupo podrá preparar una grabación propia de la petición combinada (punto 6) como respaldo, siguiendo las pautas del apartado 8.4. La grabación complementa la demostración en vivo, no la sustituye: el resto de puntos se mostrarán en directo y, si el tiempo lo permite, también la petición combinada.
 
@@ -254,3 +257,5 @@ La demostración debe mostrar comprensión y justificación técnica de las deci
 El proyecto tendrá éxito cuando el grupo pueda explicar la diferencia entre modelo y agente, demostrar la ejecución local de un LLM, justificar los parámetros y herramientas elegidos, interactuar mediante Telegram, consultar servicios de prueba, identificar riesgos de seguridad, reproducir el entorno desde su repositorio con Docker Compose y mostrar, mediante el tablero y el historial de commits, un trabajo repartido entre todos sus integrantes.
 
 La finalidad no es crear un producto comercial ni un sistema autónomo permanente: es **aprender cómo se construye y controla un agente personal basado en IA local mediante experimentación práctica, gratuita y segura**.
+
+Los grupos que tengan éxito en todo lo pedido en el proyecto, tendrán un **0,5 puntos** de más en la nota final. De todos los proyectos presentados los alumnos votarán por el proyecto con la **innovación o ampliación voluntaria que mas les haya gustado**, el equipo con más votaciones recibirá un **0,75 puntos** en la nota final. El equipo ganador será aquel que más voto
